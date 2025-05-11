@@ -1,6 +1,6 @@
 # SCVXController
 
-Controller Implementation and source code for successive convex trajectory optimization of a drone landing. The drone will feature thrust vector controlled propeller and will use an onboard flight computer to minimize the energy required to land the drone at a chosen landing spot. 
+Controller Implementation and source code for successive convex trajectory optimization of a drone landing. The drone will feature a thrust vector controlled motor/propeller and will use an onboard flight computer to minimize the energy required to land the drone at a chosen landing spot. 
 
 The manufacturing and creation of the drone and its flight controller will be created by me. However, the optimal trajectory generation code is not my own. I have made some small changes to [SCVx](https://github.com/EmbersArc/SCvx?tab=readme-ov-file) for the trajectory generation to work on my home computers. As the project progresses, I hope to document each phase of the drone's creation and operation to this page.
 
